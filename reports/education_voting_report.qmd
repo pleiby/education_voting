@@ -1,7 +1,7 @@
 ---
 title: "Educational Attainment and 2024 Presidential Voting Patterns"
 subtitle: "A State-Level Analysis"
-author: "Analysis Report"
+author: "Paul Leiby"
 date: today
 format:
   html:
