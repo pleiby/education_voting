@@ -3,3 +3,8 @@ __pycache__/
 .quarto/
 .ipynb_checkpoints/
 .DS_Store
+
+# ignore output files
+*.html
+*.pdf
+*.docx
