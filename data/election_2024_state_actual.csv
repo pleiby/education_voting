@@ -1,0 +1,65 @@
+# 2024 US Presidential Election Results by State,,,,,,,,,,,,,
+# Source: https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state,,,,,,,,,,,,,
+# Date accessed: 2026-05-29,,,,,,,,,,,,,
+#,,,,,,,,,,,,,
+# Required columns:,,,,,,,,,,,,,
+# StateName - State name (must match education data exactly),,,,,,,,,,,,,
+# DemocraticVoteShare - Democratic candidate vote percentage (0-100),,,,,,,,,,,,,
+# RepublicanVoteShare - Republican candidate vote percentage (0-100),,,,,,,,,,,,,
+# DemocraticCandidate - Democratic candidate name,,,,,,,,,,,,,
+# RepublicanCandidate - Republican candidate name,,,,,,,,,,,,,
+# TotalVotes - Total votes cast (optional),,,,,,,,,,,,,
+#,,,,,,,,,,,,,
+StateName,DemocraticVoteShare,RepublicanVoteShare,GreenVoteShare,IndependentVoteShare,LibertarianVoteShare,OtherVoteShare,Margin,MarginSwingVs2020,DemocraticCandidate,RepublicanCandidate,DemocraticVote,RepublicanVote,TotalVotes
+Alabama,34.1,64.57,0.19,0.53,0.22,0.39,30.47,5.01,Harris,Trump,772412,1462616,2265090
+Alaska,41.41,54.54,0.69,1.68,0.9,0.78,13.13,3.07,Harris,Trump,140026,184458,338177
+Arizona,46.69,52.22,0.54,,0.53,0.02,5.53,5.84,Harris,Trump,1582860,1770242,3390161
+Arkansas,33.56,64.2,0.36,1.12,0.48,0.28,30.64,3.02,Harris,Trump,396905,759241,1182676
+California,58.47,38.33,1.06,1.25,0.42,0.48,-20.14,9.02,Harris,Trump,9276179,6081697,15865475
+Colorado,54.13,43.14,0.54,1.12,0.67,0.4,-10.99,2.51,Harris,Trump,1728159,1377441,3192745
+Connecticut,56.4,41.89,0.81,0.48,0.38,0.03,-14.51,5.56,Harris,Trump,992053,736918,1759010
+Delaware,56.49,41.79,0.18,0.9,0.4,0.24,-14.7,4.27,Harris,Trump,289758,214351,512912
+D.C.,90.28,6.47,,0.85,,2.4,-83.81,2.94,Harris,Trump,294185,21076,325869
+Florida,42.99,56.09,0.4,,0.29,0.23,13.1,9.74,Harris,Trump,4683038,6110125,10893752
+Georgia,48.53,50.72,0.35,,0.39,0.02,2.19,2.42,Harris,Trump,2548017,2663117,5250905
+Hawaii,60.59,37.48,0.85,,0.53,0.56,-23.11,6.35,Harris,Trump,313044,193661,516701
+Idaho,30.38,66.87,0.33,1.42,0.49,0.51,36.49,5.72,Harris,Trump,274972,605246,905057
+Illinois,54.37,43.47,0.55,1.43,0.06,0.11,-10.9,6.09,Harris,Trump,3062863,2449079,5633310
+Indiana,39.62,58.58,,1,0.7,0.1,18.96,2.89,Harris,Trump,1163603,1720347,2936677
+Iowa,42.52,55.73,,0.79,0.43,0.53,13.21,5.01,Harris,Trump,707278,927019,1663506
+Kansas,41.04,57.16,,1.23,0.57,,16.12,1.48,Harris,Trump,544853,758802,1327591
+Kentucky,33.94,64.47,0.36,0.81,0.31,0.11,30.53,4.59,Harris,Trump,704043,1337494,2074530
+Louisiana,38.21,60.22,0.36,0.3,0.34,0.55,22.01,3.4,Harris,Trump,766870,1208505,2006975
+Maine,52.4,45.46,1.08,,0.64,0.42,-6.94,2.13,Harris,Trump,435652,377977,831375
+Maryland,62.62,34.08,1.09,0.95,0.51,0.75,-28.54,4.67,Harris,Trump,1902577,1035550,3038334
+Massachusetts,61.22,36.02,0.76,,0.51,1.48,-25.2,8.26,Harris,Trump,2126518,1251303,3473668
+Michigan,48.31,49.73,0.79,0.47,0.4,0.3,1.42,4.2,Harris,Trump,2736533,2816636,5664186
+Minnesota,50.92,46.68,0.5,0.74,0.47,0.69,-4.24,2.87,Harris,Trump,1656979,1519032,3253920
+Mississippi,38,60.89,0.15,0.44,0.21,0.31,22.89,6.34,Harris,Trump,466668,747744,1228008
+Missouri,40.08,58.49,0.57,,0.8,0.06,18.41,3.02,Harris,Trump,1200599,1751986,2995327
+Montana,38.46,58.39,0.48,1.96,0.71,0,19.93,3.56,Harris,Trump,231906,352079,602990
+Nebraska,38.86,59.32,0.3,,0.67,0.85,20.46,1.4,Harris,Trump,369995,564816,952182
+Nevada,47.49,50.59,,,0.41,1.51,3.1,5.49,Harris,Trump,705197,751205,1484840
+New Hampshire,50.65,47.87,0.45,,0.54,0.49,-2.78,4.57,Harris,Trump,418488,395523,826189
+New Jersey,51.97,46.06,0.91,0.55,0.25,0.25,-5.91,10.03,Harris,Trump,2220713,1968215,4272725
+New Mexico,51.85,45.85,0.5,1.03,0.41,0.36,-6,4.79,Harris,Trump,478802,423391,923403
+New York,55.91,43.31,0.57,,0.06,0.15,-12.6,10.53,Harris,Trump,4619195,3578899,8262495
+North Carolina,47.65,50.86,0.43,,0.39,0.67,3.21,1.86,Harris,Trump,2715375,2898423,5699141
+North Dakota,30.51,66.96,,,1.69,0.84,36.45,3.11,Harris,Trump,112327,246505,368155
+Ohio,43.93,55.14,,,0.49,0.45,11.21,3.18,Harris,Trump,2533699,3180116,5767788
+Oklahoma,31.9,66.16,,1.02,0.59,0.33,34.26,1.17,Harris,Trump,499599,1036213,1566173
+Oregon,55.27,40.97,0.85,1.5,0.4,1,-14.3,1.79,Harris,Trump,1240600,919480,2244493
+Pennsylvania,48.66,50.37,0.49,,0.47,0.35,1.71,2.87,Harris,Trump,3423042,3543308,7058732
+Rhode Island,55.54,41.76,0.56,0.98,0.31,0.83,-13.78,7,Harris,Trump,285156,214406,513386
+South Carolina,40.36,58.23,0.32,,0.5,0.59,17.87,6.19,Harris,Trump,1028452,1483747,2548140
+South Dakota,34.24,63.43,,1.68,0.65,,29.19,3.03,Harris,Trump,146859,272081,428922
+Tennessee,34.47,64.19,0.29,0.7,,0.34,29.72,6.51,Harris,Trump,1056265,1966865,3063942
+Texas,42.46,56.14,0.73,,0.6,0.08,13.68,8.1,Harris,Trump,4835250,6393597,11388674
+Utah,37.79,59.38,0.55,,1.14,1.14,21.59,1.11,Harris,Trump,562566,883818,1488494
+Vermont,63.83,32.32,0.24,1.6,0.49,1.52,-31.51,3.9,Harris,Trump,235791,119395,369422
+Virginia,51.83,46.05,0.77,,0.44,0.9,-5.78,4.35,Harris,Trump,2335395,2075085,4505941
+Washington,57.23,39.01,0.76,1.4,0.42,1.18,-18.22,0.98,Harris,Trump,2245849,1530923,3924243
+West Virginia,28.1,69.97,0.33,1.17,0.4,0.03,41.87,2.94,Harris,Trump,214309,533556,762582
+Wisconsin,48.74,49.6,0.36,0.52,0.31,0.48,0.86,1.49,Harris,Trump,1668229,1697626,3422918
+Wyoming,25.84,71.6,,,1.56,1,45.76,2.38,Harris,Trump,69527,192633,269048
+Total,48.32,49.8,0.56,0.49,0.42,0.42,1.48,,Harris,Trump,75017613,77302580,155240955

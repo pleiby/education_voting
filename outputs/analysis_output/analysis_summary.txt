@@ -1,0 +1,73 @@
+================================================================================
+ANALYSIS REPORT: Educational Attainment vs. 2024 Presidential Voting
+================================================================================
+
+Generated: 2026-05-29 15:05:50
+
+Datasets:
+  Education: education_data_p.csv
+  Election: election_2024_state.csv
+  Sample size: 50 states
+
+--------------------------------------------------------------------------------
+STATISTICAL RESULTS
+--------------------------------------------------------------------------------
+
+Correlation Analysis:
+  Pearson r = 0.7544 (p = 2.5108e-10)
+  Spearman ρ = 0.7715 (p = 5.4927e-11)
+
+Linear Regression:
+  Model: DemVote% = -2.98 + 1.36 × Education%
+  R² = 0.5691
+  p-value = 2.5108e-10
+  Standard error = 0.1705
+
+--------------------------------------------------------------------------------
+DESCRIPTIVE STATISTICS
+--------------------------------------------------------------------------------
+
+Democratic-won states (n=19):
+  Mean education: 40.88%
+  Median education: 41.00%
+  Std dev: 4.16%
+
+Republican-won states (n=29):
+  Mean education: 32.58%
+  Median education: 33.00%
+  Std dev: 3.61%
+
+Independent t-test (education difference between winners):
+  t-statistic = 7.3354
+  p-value = 2.8680e-09
+  Mean difference = 8.30 percentage points
+
+--------------------------------------------------------------------------------
+TOP 10 STATES BY EDUCATION
+--------------------------------------------------------------------------------
+  Massachusetts         48.3%  Dem:  61.2%  [D]
+  Colorado              47.8%  Dem:  54.1%  [D]
+  Vermont               45.1%  Dem:  63.8%  [D]
+  Maryland              44.7%  Dem:  62.6%  [D]
+  New Jersey            44.5%  Dem:  52.0%  [D]
+  Virginia              43.3%  Dem:  51.8%  [D]
+  Connecticut           42.6%  Dem:  56.4%  [D]
+  New Hampshire         41.5%  Dem:  50.6%  [D]
+  New York              41.2%  Dem:  55.9%  [D]
+  Washington            41.0%  Dem:  57.2%  [D]
+
+--------------------------------------------------------------------------------
+BOTTOM 10 STATES BY EDUCATION
+--------------------------------------------------------------------------------
+  West Virginia         24.4%  Dem:  28.1%  [R]
+  Mississippi           27.0%  Dem:  38.0%  [R]
+  Arkansas              27.1%  Dem:  33.6%  [R]
+  Louisiana             27.8%  Dem:  38.2%  [R]
+  Kentucky              27.9%  Dem:  33.9%  [R]
+  Nevada                28.5%  Dem:  47.5%  [R]
+  Oklahoma              29.3%  Dem:  31.9%  [R]
+  Alabama               29.9%  Dem:  34.1%  [R]
+  Indiana               30.7%  Dem:  39.6%  [R]
+  New Mexico            31.8%  Dem:  51.9%  [D]
+
+================================================================================

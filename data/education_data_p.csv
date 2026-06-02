@@ -1,0 +1,62 @@
+# Source: The most and least educated US states, ranked by the share of adults with a bachelor's degree or higher
+# By Kristine Villarroel
+# The US average of adults aged 25 and older with a bachelor's degree or higher is 36.8%. Leigh Trail/Shutterstock
+# May 28, 2026, 9:07 AM ET
+# Business Insider analyzed the latest US Census Bureau data on the percentage of adults 25 and older in all 50 states who have earned a bachelor's degree or higher. We used that measure to rank the states by educational attainment for this list.
+# https://www.businessinsider.com/most-least-educated-states-bachelors-degrees-or-higher#50-west-virginia-1
+#
+# Processed: 2026-05-29
+# EducationRank: 1 = most educated (highest bachelor's+ %), 50 = least educated
+# Note: Ranks recalculated from BachelorsDegreeShare due to markdown numbering issues
+#
+StateName,EducationRank,BachelorsDegreeShare,GraduateProfessionalDegreeShare
+Massachusetts,1,48.3,22.6
+Colorado,2,47.8,
+Vermont,3,45.1,
+Maryland,4,44.7,21.5
+New Jersey,5,44.5,
+Virginia,6,43.3,
+Connecticut,7,42.6,19.3
+New Hampshire,8,41.5,
+New York,9,41.2,
+Washington,10,41.0,
+Minnesota,11,40.0,12.0
+Illinois,12,39.2,
+Utah,13,39.1,
+Rhode Island,14,39.0,
+California,15,38.1,
+Hawaii,16,37.8,
+Oregon,17,37.8,
+North Carolina,18,37.1,
+Maine,19,37.1,
+Pennsylvania,20,36.4,
+Georgia,21,36.3,
+Montana,22,36.3,12.0
+Delaware,23,36.0,
+Kansas,24,36.0,
+Florida,25,35.8,
+Nebraska,26,35.4,11.3
+Texas,27,35.2,
+Arizona,28,34.7,
+Wisconsin,29,34.6,
+South Dakota,30,34.2,
+North Dakota,31,34.0,
+Missouri,32,33.5,
+Michigan,33,33.3,
+South Carolina,34,33.3,
+Idaho,35,33.0,
+Alaska,36,32.8,
+Ohio,37,32.4,
+Tennessee,38,32.4,
+Wyoming,39,32.3,
+Iowa,40,32.1,
+New Mexico,41,31.8,
+Indiana,42,30.7,
+Alabama,43,29.9,
+Oklahoma,44,29.3,
+Nevada,45,28.5,10.1
+Kentucky,46,27.9,
+Louisiana,47,27.8,
+Arkansas,48,27.1,10.0
+Mississippi,49,27.0,
+West Virginia,50,24.4,
